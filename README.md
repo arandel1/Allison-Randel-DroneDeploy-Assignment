@@ -17,6 +17,9 @@
 3. The user will see their inquery appear above the input.
 4. The bot will provide a response or throw an error.
 
+<img width="500" alt="DroneDeploy Chat image" src="https://github.com/user-attachments/assets/947bbc58-4a4f-4839-81d7-09d4117a3670">
+
+
 ### Key Takeaways + Retro
 
 - I wanted to focus on backend functionality for this project -- I wanted to use the best framework and AI integration. In hindsight, I spent too long deciding which framework to use. Picking a framework I was more comfortable with might have saved me time and energy.
