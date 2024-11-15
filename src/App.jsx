@@ -206,9 +206,9 @@ function App() {
   return (
     <>
       <h1>DroneDeploy Chat</h1>
-      <div>
+      <div className = 'chatbox'>
         <div>
-          // Display chat
+          {/* Display chat */}
           {messages.map((msg, i) => (
             <div key={i} className={msg.role}>
               <strong>{msg.role === 'user' ? 'You' : 'Bot'}</strong> {msg.content}
