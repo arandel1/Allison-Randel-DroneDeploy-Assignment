@@ -8,7 +8,7 @@
 
 ## The Goal
 
-- The goal of this exericse was to create a functioning web application the utilized AI to allow a user to chat with an AI bot to receive information pertaining to provided data. 
+- The goal of this exercise was to create a functioning web application the utilized AI to allow a user to chat with an AI bot to receive information relevant to provided data. 
  
 ### Using the Application
 
@@ -22,8 +22,8 @@
 
 ### Key Takeaways + Retro
 
-- I wanted to focus on backend functionality for this project -- I wanted to use the best framework and AI integration. In hindsight, I spent too long deciding which framework to use. Picking a framework I was more comfortable with might have saved me time and energy.
-- Due to Open AI rate permissions, I was unable to get past the `POST 429` error. The bot then throws an error message, saying it is having trouble, and prompts the user to try again. I referenced Open AI documentation, Vite + React documentation, and various forms of AI to overcome the bug, but did not succeed.
+- I wanted to focus on backend functionality for this project and wanted to use the best framework and AI integration. In hindsight, I spent too long deciding which framework to use. Picking a framework I was more comfortable with from the start would have saved me time and energy.
+- Due to Open AI rate permissions, I was unable to get past the `POST 429` error. The bot then throws an error message, saying it is having trouble, and prompts the user to try again. I referenced Open AI documentation, Vite + React documentation, and various forms of AI to overcome the bug, incorporated testing in my code, but was unsuccessful.
 - While I'm not 100% satisfied with my end product, I was determined to submit what I had before the deadline.
 
 ### Future Plans
